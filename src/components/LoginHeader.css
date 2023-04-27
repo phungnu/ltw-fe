@@ -1,0 +1,6 @@
+.header {
+     overflow:hidden;
+     background:linear-gradient(to left, red, yellow);
+     display: flex;
+     justify-content: space-between;
+}
